@@ -1,0 +1,9 @@
+[package]
+name = "protein2json"
+version = "0.1.0"
+authors = ["Justin Shrake <jshrake@oblong.com>"]
+
+[dependencies]
+serde = "1.0"
+serde_yaml = "0.7"
+serde_json = "1.0"
